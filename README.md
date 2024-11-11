@@ -1,2 +1,2 @@
 # Extract-Excel-Scores
-Helped me to extract certain scores from excel columns and store into another excel file.
+It helped me to extract certain scores from Excel columns and store them in another Excel file using Python.
